@@ -1,0 +1,34 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Cool Panda",
+      "image": "https://media4.giphy.com/media/madk0aTQE1xlJ1OTvu/giphy.gif?cid=ecf05e472pses555741egu24t9rl15c4uwfwyfslap12j09c&rid=giphy.gif&ct=g",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "name": "Sad Lilo",
+      "image": "https://media4.giphy.com/media/P53TSsopKicrm/giphy.gif?cid=ecf05e47kcrqoi089xgv7mwwo2qn64j95fdkcj5ozecpj031&rid=giphy.gif&ct=g",
+      "votes": 0
+    },
+    {
+      "id": 3,
+      "name": "Lab Rat",
+      "image": "https://media0.giphy.com/media/eK12uCsrAh4wmTXejp/giphy.gif?cid=ecf05e47zpavj1ok44q54zqmvj2szgmm2a25dvu9a20vw34r&rid=giphy.gif&ct=g",
+      "votes": 0
+    },
+    {
+      "id": 4,
+      "name": "Playing Mongoose",
+      "image": "https://media0.giphy.com/media/Q5LQdlZehXXAKyRVQf/giphy.gif?cid=ecf05e47i2bfpctojxd513jc4krrd7mqyvq4uxag3tenigo0&rid=giphy.gif&ct=g",
+      "votes": 0
+    },
+    {
+      "id": 5,
+      "name": "Flying Dog",
+      "image": "https://i.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.webp",
+      "votes": 0
+    }
+  ]
+}
